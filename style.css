@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(190, 150, 228);
+    color: white;
+}
+h1{
+    color: cornflowerblue;
+}
+p{
+    color: cornsilk;
+}
+
+img{
+    border-radius: 50%;
+}
