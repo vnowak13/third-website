@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(190, 150, 228);
+    background-color: rgb(186, 177, 196);
     color: white;
 }
 h1{
@@ -11,4 +11,14 @@ p{
 
 img{
     border-radius: 50%;
+}
+
+#special{
+    color: #F0FFF0;
+    background-color: #663399;
+}
+
+#special2{
+    color: #FAF0E6;
+    background-color: #663399;
 }
