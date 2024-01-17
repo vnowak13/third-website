@@ -1,38 +1,55 @@
-body{
+body {
     background-color: rgb(186, 177, 196);
     color: white;
 }
-h1{
+
+h1 {
     color: cornflowerblue;
 }
-p{
+
+p {
     color: cornsilk;
 }
 
-img{
+img {
     border-radius: 50%;
 }
 
-#special{
+#special {
     color: #F0FFF0;
     background-color: #663399;
 }
 
-#special2{
+#special2 {
     color: #FAF0E6;
     background-color: #663399;
 }
-#special3{
+
+#special3 {
     color: #F5F5F5;
     background-color: #663399;
 }
-hr{
+
+hr {
     border: 2px solid #4682B4;
 }
 
-#happy{
+#happy {
     border: 2px solid #191970;
 }
-#happy2{
+
+#happy2 {
     border: 2px solid #191970
+}
+ol{
+    color: antiquewhite;
+    
+}
+li{
+    color: #191970;
+
+}
+ul{
+    color: aliceblue;
+
 }
